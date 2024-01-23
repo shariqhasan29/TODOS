@@ -1,6 +1,6 @@
 { 
-  "homepage": "http://shariqhasan29.github.io/to-do-list",
-  "name": "to-do-list",
+  "homepage": "",
+  "name": "todos",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
